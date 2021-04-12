@@ -34,3 +34,4 @@ def profile(request):
         'count': 28
     }
     return JsonResponse(data)
+    
